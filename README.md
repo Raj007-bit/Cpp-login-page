@@ -11,9 +11,9 @@ Here you can register yourself and then can login and a forgot password option i
 
 you can find your id using your username or password.
 
-![image](https://user-images.githubusercontent.com/66832143/127043503-e4331322-bde4-448a-9f7e-f015c21ee588.png)
+ ![image](https://user-images.githubusercontent.com/66832143/127043503-e4331322-bde4-448a-9f7e-f015c21ee588.png)
 
-![image](https://user-images.githubusercontent.com/66832143/127043556-aafeba71-c82c-45d2-b7b2-1f555be79695.png)
+ ![image](https://user-images.githubusercontent.com/66832143/127043556-aafeba71-c82c-45d2-b7b2-1f555be79695.png)
 
 
 
