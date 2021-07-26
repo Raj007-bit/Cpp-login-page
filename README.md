@@ -3,8 +3,11 @@ This is a repository that contains simple login form using C++
 which contain four options,
 
 1.Login
+
 2.Register
+
 3.Forgot Password/Username
+
 4.Exit
 
 Here you can register yourself and then can login and a forgot password option is also given,
